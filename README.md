@@ -1,5 +1,5 @@
 # Hi there, I'm Burak👋 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://github.com/esconda)
 
 ## I am C,C++ and Python Developer!
 
