@@ -23,6 +23,8 @@
 <img align="left" alt="OpenCv" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pytorch" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Tensorflow" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="GCC" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" style="padding-right:10px;" />
+<img align="left" alt="VsCode" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Ubuntu" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
 
