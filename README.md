@@ -18,7 +18,7 @@
 ### Languages and Tools:
 <img align="left" alt="C" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg style="padding-right:10px;" />
+<img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
 
 
 
