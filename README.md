@@ -16,7 +16,7 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/dogancay.burak/#gh-dark-mode-only)
 
 ### Languages and Tools:
-<p>
+<p float="left">
 <img align="left" alt="C" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="QT" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" style="padding-right:10px;" />
