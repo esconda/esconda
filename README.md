@@ -21,7 +21,7 @@
 <img align="left" alt="QT" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="OpenCv" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Pytorch" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
 
