@@ -31,5 +31,5 @@
 </br></br></br>
 <img align="left" alt="Ubuntu" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="C" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="padding-right:10px;" />
 
