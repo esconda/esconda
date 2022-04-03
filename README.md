@@ -16,20 +16,18 @@
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/dogancay.burak/#gh-dark-mode-only)
 
 ### Languages and Tools:
-<p float="left">
-<img align="left" alt="C" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="QT" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="OpenCv" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Pytorch" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Tensorflow" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Numpy" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Pandas" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GCC" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" style="padding-right:10px;" />
-<img align="left" alt="VsCode" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
-</p>
-<img align="left" alt="Ubuntu" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;"/>
-<img align="left" alt="Git" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="QT" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="OpenCv" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Pytorch" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Tensorflow" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Numpy" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Pandas" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GCC" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" style="padding-right:10px;" />
+<img align="left" alt="VsCode" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Ubuntu" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;"/>
+<img align="left" alt="Git" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="padding-right:10px;" />
 
