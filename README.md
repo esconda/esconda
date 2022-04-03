@@ -30,6 +30,5 @@
 <img align="left" alt="Linux" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
 </br></br>
 <img align="left" alt="Ubuntu" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
-</br></br>
 <img align="left" alt="Git" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="padding-right:10px;" />
 
