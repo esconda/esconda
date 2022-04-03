@@ -1,6 +1,6 @@
 # Hi there, I'm Burak👋 
 
-## I am C,C++ and Python Developer!!!
+## I am C,C++ and Python Developer!
 
 - 🔭 I interest with the Artifical Intelligence development based on Computer vision and IOT embedded systems(Robotics)
 - 🤘🏻 I interset with defense industry, aerospace and robotics.
