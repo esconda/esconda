@@ -28,10 +28,8 @@
 <img align="left" alt="GCC" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg" style="padding-right:10px;" />
 <img align="left" alt="VsCode" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<br>
-<br>
+</br></br></br></br></br>
 <img align="left" alt="Ubuntu" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;"/>
 <img align="left" alt="Git" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="padding-right:10px;" />
-</br>
-</br>
+
 
