@@ -4,7 +4,7 @@
 ## I am C,C++ and Python Developer!
 
 - 🔭 I interest with the Artifical Intelligence development based on Computer Vision and IOT embedded systems(Robotics)
-- 🤘🏻 I interset with defense industry, aerospace and robotics.
+- 🤘🏻 I interest with defense industry, aerospace and robotics.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🔋 Technology is one of the most meaningful areas that connects life
